@@ -10,4 +10,7 @@ def subtract(a,b):
 
 def toString():
 	return "Calculator"
-	
+
+def myfunc():
+	return True
+
