@@ -8,9 +8,7 @@ def add(a,b):
 def subtract(a,b):
 	return a-b
 
-def toString():
-	return "Calculator"
+def multiply(a,b):
+	return a*b
 
-def myfunc():
-	return True
-
+## done
