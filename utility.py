@@ -1,6 +1,7 @@
 def func0():
 	for i in range(3):
 		print(i)
+	print('Done')
 
 def func2():
         return "func2"
