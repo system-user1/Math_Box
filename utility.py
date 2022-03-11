@@ -1,3 +1,6 @@
+def func0():
+	return "func0"
+
 def func2():
         return "func2"
 
