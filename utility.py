@@ -1,4 +1,5 @@
 def func0():
+	print('Before start')
 	for i in range(3):
 		print(i)
 
