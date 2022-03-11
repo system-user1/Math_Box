@@ -4,9 +4,9 @@ def func0():
 def func2():
         return "func2"
 
-def func1():
+def func1_new_impl():
 	return "func1_new"
 
-def func4():
-	return "func4"
+def func3():
+	return "func3"
 
