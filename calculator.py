@@ -16,6 +16,3 @@ def divide(a,b):
 
 ## done
 
-def say_hello():
-	print("hello!")
-	
