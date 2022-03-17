@@ -15,3 +15,7 @@ def divide(a,b):
 	return a/b
 
 ## done
+
+def say_hello():
+	print("hello!")
+	
